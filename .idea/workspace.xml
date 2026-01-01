@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e79d45-9920-42a8-8dd4-ba8baa7dd88b" name="Changes" comment="coffeemachine code">
-      <change afterPath="$PROJECT_DIR$/Day_18/hirst_image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/hirst_sport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/spot_paintig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_19/sketch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_19/turtles_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_20/snake_game/Food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_20/snake_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_20/snake_game/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_20/snake_game/snake_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_20/snake_game/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_21/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_21/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_21/pong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_21/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/car_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/score.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20/snake_game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_20/snake_game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20/snake_game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_20/snake_game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20/snake_game/snake_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_20/snake_game/snake_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.CoffeeMachine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hirst_sport.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sketch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtles_race.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/PycharmProjects/100daysOfPython/Day_17&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CoffeeMachine.executor": "Run",
+    "Python.ball.executor": "Run",
+    "Python.car_game.executor": "Run",
+    "Python.cars.executor": "Run",
+    "Python.hirst_sport.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.player.executor": "Run",
+    "Python.pong.executor": "Run",
+    "Python.score.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.sketch.executor": "Run",
+    "Python.snake_game (1).executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.turtles_race.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL/PycharmProjects/100daysOfPython/Day_17",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\PycharmProjects\100daysOfPython\Day_17" />
@@ -70,7 +79,7 @@
       <recent name="C:\Users\DELL\PycharmProjects\100daysOfPython\Day_18" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.snake_game (1)">
+  <component name="RunManager">
     <configuration name="snake_game (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100daysOfPython" />
       <option name="ENV_FILES" value="" />
@@ -154,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766843846943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="coffeemachine code">
+      <option name="closed" value="true" />
+      <created>1766941004319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766941004319</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,5 +188,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="coffeemachine code" />
     <option name="LAST_COMMIT_MESSAGE" value="coffeemachine code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day_20/snake_game/snake.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
